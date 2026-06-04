@@ -1,0 +1,13 @@
+﻿# Android / Gradle
+**/.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+.gradle-dist/
+.android-sdk/
+.cache/
+.jdks/
+*.apk
+*.aab

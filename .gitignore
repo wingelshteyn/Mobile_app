@@ -1,0 +1,23 @@
+# Исключено по заданию
+UI_UX/
+
+# Android / Gradle
+**/.gradle/
+**/build/
+**/.local-tools/
+local.properties
+*.iml
+.idea/
+.DS_Store
+.gradle-dist/
+.android-sdk/
+.cache/
+.jdks/
+*.apk
+*.aab
+*.zip
+
+# Node / фронтенд-артефакты
+**/node_modules/
+**/dist/
+**/.vite/
